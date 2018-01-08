@@ -10,7 +10,11 @@ var React = require('react');
 
 var About = () => {
   return(
-    <h2> About Component 1</h2>
+    <div>
+      <h2> About </h2>
+      <p> This is the about page </p>
+    </div>
+
   );
 }
 
